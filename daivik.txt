@@ -1,6 +1,10 @@
 The branch of Daivik
 Daivik does not know Git.
+<<<<<<< HEAD
 <<<<<<< rahul
 Daivik is the master of Git.
 =======
 Daivik switched his branch.
+=======
+Daivik is getting to know Git.
+>>>>>>> b56310c869a4dcb459c30250f7309508d0ced936
