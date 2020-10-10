@@ -1,1 +1,2 @@
 The branch of Daivik
+Daivik does not know Git.
